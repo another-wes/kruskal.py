@@ -1,0 +1,2 @@
+echo python3 kruskal.py \$\* > kruskal
+chmod +x kruskal
